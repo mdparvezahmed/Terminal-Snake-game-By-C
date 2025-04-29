@@ -11,7 +11,7 @@ int window_hight = 25;
 int window_weight = 25;
 int position_x = 1;
 int position_y = 7;
-score = 0;
+int score = 0;
 
 int random_fruit()
 {
